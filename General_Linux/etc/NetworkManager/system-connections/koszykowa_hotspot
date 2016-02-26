@@ -1,0 +1,15 @@
+[connection]
+id=koszykowa_hotspot
+uuid=565f4534-9085-4656-ad14-09a475bbd365
+type=802-11-wireless
+
+[802-11-wireless]
+ssid=koszykowa_hotspot
+mode=infrastructure
+mac-address=14:2D:27:8D:7E:8D
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto

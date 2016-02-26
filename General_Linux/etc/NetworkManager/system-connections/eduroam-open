@@ -1,0 +1,15 @@
+[connection]
+id=eduroam-open
+uuid=460767f1-2856-445e-8838-e515ee152cf6
+type=802-11-wireless
+
+[802-11-wireless]
+ssid=eduroam-open
+mode=infrastructure
+mac-address=14:2D:27:8D:7E:8D
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto

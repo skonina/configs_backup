@@ -1,0 +1,15 @@
+[connection]
+id=freewifi.waw.pl 8103
+uuid=9fa46909-4198-482f-bc6d-3cfa03fb432c
+type=802-11-wireless
+
+[802-11-wireless]
+ssid=freewifi.waw.pl 8103
+mode=infrastructure
+mac-address=14:2D:27:8D:7E:8D
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto

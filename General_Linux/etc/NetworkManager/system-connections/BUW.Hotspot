@@ -1,0 +1,15 @@
+[connection]
+id=BUW.Hotspot
+uuid=be9edf9d-475c-49e1-aa92-60daaee961bf
+type=802-11-wireless
+
+[802-11-wireless]
+ssid=BUW.Hotspot
+mode=infrastructure
+mac-address=14:2D:27:8D:7E:8D
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto

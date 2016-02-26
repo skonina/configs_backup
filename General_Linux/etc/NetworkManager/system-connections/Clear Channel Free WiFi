@@ -1,0 +1,15 @@
+[connection]
+id=Clear Channel Free WiFi
+uuid=c7c93c5f-51fb-4623-844f-f546e9850733
+type=802-11-wireless
+
+[802-11-wireless]
+ssid=Clear Channel Free WiFi
+mode=infrastructure
+mac-address=14:2D:27:8D:7E:8D
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto
