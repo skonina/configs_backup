@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"Clipboard Manager",
+		"ColorPicker",
+		"Comment-Snippets",
+		"DocBlockr",
+		"GitGutter",
+		"Javatar",
+		"memTask",
+		"Meteor Autocomplete (TernJS)",
+		"Monokai - Spacegray",
+		"nRepeat",
+		"Numix Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Spacegray"
+	]
+}

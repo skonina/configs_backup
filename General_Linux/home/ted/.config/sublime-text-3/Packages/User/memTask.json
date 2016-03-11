@@ -1,0 +1,226 @@
+{
+    "01.03.2016//media/removable/UNTITLED/project/time4project/mipslab.h": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "01.03.2016//media/removable/UNTITLED/project/time4project/mipslabdata.c": {
+        "path_divider": "/", 
+        "time": 15
+    }, 
+    "01.03.2016//media/removable/UNTITLED/project/time4project/mipslabmain.c": {
+        "path_divider": "/", 
+        "time": 40
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/3/time4int/mipslab.h": {
+        "path_divider": "/", 
+        "time": 165
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/3/time4int/mipslabdata.c": {
+        "path_divider": "/", 
+        "time": 10
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/3/time4int/mipslabfunc.c": {
+        "path_divider": "/", 
+        "time": 850
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/3/time4int/mipslabmain.c": {
+        "path_divider": "/", 
+        "time": 105
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/3/time4int/mipslabwork.c": {
+        "path_divider": "/", 
+        "time": 830
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/3/time4int/time4io.c": {
+        "path_divider": "/", 
+        "time": 30
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/3/time4int/vectors.S": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/3/time4timer/mipslabwork.c": {
+        "path_divider": "/", 
+        "time": 110
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslab.h": {
+        "path_divider": "/", 
+        "time": 155
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslabfunc.c": {
+        "path_divider": "/", 
+        "time": 6165
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslabmain.c": {
+        "path_divider": "/", 
+        "time": 3875
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslabwork.c": {
+        "path_divider": "/", 
+        "time": 13550
+    }, 
+    "03.03.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/client/templates/home.html": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "03.03.2016/temp files": {
+        "path_divider": "/", 
+        "time": 595
+    }, 
+    "07.03.2016//home/ted/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap": {
+        "path_divider": "/", 
+        "time": 10
+    }, 
+    "07.03.2016//home/ted/.config/sublime-text-3/Packages/nRepeat/README.md": {
+        "path_divider": "/", 
+        "time": 55
+    }, 
+    "07.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslab.h": {
+        "path_divider": "/", 
+        "time": 60
+    }, 
+    "07.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslabdata.c": {
+        "path_divider": "/", 
+        "time": 585
+    }, 
+    "07.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslabfunc.c": {
+        "path_divider": "/", 
+        "time": 2275
+    }, 
+    "07.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslabmain.c": {
+        "path_divider": "/", 
+        "time": 35
+    }, 
+    "07.03.2016//media/removable/External Drive/home/ted/Dev/KTH/Hardware/stroke_coach/mipslabwork.c": {
+        "path_divider": "/", 
+        "time": 5635
+    }, 
+    "07.03.2016/temp files": {
+        "path_divider": "/", 
+        "time": 315
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/boilerplates/materialize-iron-router/client/footer.html": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/boilerplates/materialize-iron-router/client/main.html": {
+        "path_divider": "/", 
+        "time": 10
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/boilerplates/materialize-iron-router/client/master_layout.html": {
+        "path_divider": "/", 
+        "time": 20
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/boilerplates/materialize-iron-router/client/nav.html": {
+        "path_divider": "/", 
+        "time": 65
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/boilerplates/materialize-iron-router/client/nav.js": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/boilerplates/materialize-iron-router/client/stylesheets/style.css": {
+        "path_divider": "/", 
+        "time": 195
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/boilerplates/materialize-iron-router/client/views/home.html": {
+        "path_divider": "/", 
+        "time": 25
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/boilerplates/materialize-iron-router/lib/router/routes.js": {
+        "path_divider": "/", 
+        "time": 35
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/client/templates/home.html": {
+        "path_divider": "/", 
+        "time": 940
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/server/lib/accounts.js": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "09.03.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/server/publish.js": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "09.03.2016/temp files": {
+        "path_divider": "/", 
+        "time": 15
+    }, 
+    "28.02.2016//home/ted/.config/sublime-text-3/Packages/User/Preferences.sublime-settings": {
+        "path_divider": "/", 
+        "time": 430
+    }, 
+    "28.02.2016//home/ted/.config/sublime-text-3/Packages/auto-save/README.md": {
+        "path_divider": "/", 
+        "time": 80
+    }, 
+    "28.02.2016//home/ted/.config/sublime-text-3/Packages/auto-save/auto_save.sublime-settings": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "28.02.2016//home/ted/.config/sublime-text-3/Packages/memTask/README.md": {
+        "path_divider": "/", 
+        "time": 65
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/.meteor/packages": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/client/stylesheets/style.css": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/client/templates/events_list.html": {
+        "path_divider": "/", 
+        "time": 115
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/client/templates/events_list.js": {
+        "path_divider": "/", 
+        "time": 10
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/client/templates/home.html": {
+        "path_divider": "/", 
+        "time": 495
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/client/templates/home.js": {
+        "path_divider": "/", 
+        "time": 15
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/client/templates/users_list.html": {
+        "path_divider": "/", 
+        "time": 310
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/gcal.txt": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/lib/collections.js": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/methods.js": {
+        "path_divider": "/", 
+        "time": 15
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/rowbook.html": {
+        "path_divider": "/", 
+        "time": 5
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/rowbook.js": {
+        "path_divider": "/", 
+        "time": 10
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/server/bootstrap.js": {
+        "path_divider": "/", 
+        "time": 10
+    }, 
+    "28.02.2016//media/removable/External Drive/home/ted/Sites/meteor/rowbook/server/lib/accounts.js": {
+        "path_divider": "/", 
+        "time": 60
+    }, 
+    "28.02.2016/temp files": {
+        "path_divider": "/", 
+        "time": 240
+    }
+}
