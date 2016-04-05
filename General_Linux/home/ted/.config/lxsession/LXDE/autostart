@@ -1,0 +1,6 @@
+@xfce4-panel
+@pcmanfm --desktop --profile LXDE
+@compton
+@plank
+@maximus
+@guake
